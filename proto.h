@@ -10,7 +10,7 @@ void mapping_dmp(void);
 void vm_dmp(void);
 
 /* dmp_kernel.c */
-void pscount_dmp(void);
+void pscount_dmp(void);         /*This is the function I add*/
 void proctab_dmp(void);
 void procstack_dmp(void);
 void privileges_dmp(void);
