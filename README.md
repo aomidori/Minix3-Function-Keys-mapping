@@ -17,3 +17,4 @@ Map the Shift+F7 to displaying how many processes are currently running
   7. Try to press Shfit+F5, and Shift+F7 :)
      
 ![](https://github.com/AOMIDORI/Minix3-Function-Keys-mapping/blob/master/screenshot/keymap.png)
+![](https://raw.githubusercontent.com/AOMIDORI/Minix3-Function-Keys-mapping/19e50c3019c00e4d8033786f508d74a335b53bad/screenshot/keymap.png)
