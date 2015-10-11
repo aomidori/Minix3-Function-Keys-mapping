@@ -30,7 +30,7 @@ struct hook_entry {
 	{ SF4,	dtab_dmp, "Device/Driver mapping" },
 	{ SF5,	mapping_dmp, "Print key mappings" },
 	{ SF6,	rproc_dmp, "Reincarnation server process table" },
-	{ SF7,  pscount_dmp, "Count the how many processes are running" },
+	{ SF7,  pscount_dmp, "Count how many processes are running" },
 	{ SF8,  data_store_dmp, "Data store contents" },
 	{ SF9,  procstack_dmp, "Processes with stack traces" },
 };
